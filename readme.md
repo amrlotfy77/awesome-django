@@ -1,6 +1,6 @@
 # <a href="#"> Awesome Django</a>
 
-[![Repository](https://img.shields.io/badge/GitHub-URL-orange.svg)](https://github.com/shahraizali/awesome-django) [![Build status](https://gitlab.com/rosarior/awesome-django/badges/master/build.svg)](https://gitlab.com/rosarior/awesome-django/commits/master) ![license](https://img.shields.io/github/license/rosarior/awesome-django.svg)
+[![Repository](https://img.shields.io/badge/GitHub-URL-orange.svg)](https://github.com/shahraizali/awesome-django) ![license](https://img.shields.io/github/license/rosarior/awesome-django.svg)
 
 
 A curated list of awesome Django apps, projects and resources.
