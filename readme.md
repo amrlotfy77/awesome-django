@@ -1,7 +1,12 @@
-# <a href="#"> Awesome Django</a>
+<!-- badges -->
+<div align="center">
+
+# Awesome Django [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+<img src="https://cdn-images-1.medium.com/max/1200/1*nC94XZXcbKJQVF1vhj30nQ.png" align="absmiddle"/> 
 
 [![Repository](https://img.shields.io/badge/GitHub-URL-orange.svg)](https://github.com/shahraizali/awesome-django) ![license](https://img.shields.io/github/license/rosarior/awesome-django.svg)
-
+</div>
 
 A curated list of awesome Django apps, projects and resources.
 
